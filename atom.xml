@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SGYZ</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.sgyz.xyz/"/>
+  <updated>2019-09-28T07:08:00.890Z</updated>
+  <id>http://www.sgyz.xyz/</id>
+  
+  <author>
+    <name>上官易泽</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>luochen</title>
+    <link href="http://www.sgyz.xyz/2019/09/28/luochen/"/>
+    <id>http://www.sgyz.xyz/2019/09/28/luochen/</id>
+    <published>2019-09-28T03:48:38.000Z</published>
+    <updated>2019-09-28T07:08:00.890Z</updated>
+    
+    <content type="html"><![CDATA[<p>&lt;–more–&gt;</p><html>    <head><meta name="generator" content="Hexo 3.9.0">        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">        <title>LOVE109❤️纪实小屋</title>        <link rel="Shortcut Icon" href="https://i.loli.net/2019/02/13/5c62f60e194c3.png" type="image/x-icon">        <meta name="viewport" content="width=device-width, initial-scale=1.0">        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">        <!--<meta itemprop="image" content="./images/fenxiang.png" />-->        <style>            html {                height: 100%;            }            body {                font-family: "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "Hiragino Sans GB", "Microsoft Yahei", sans-serif;                background: #79a8ae;                color: #CFEBE4;                font-size: 18px;                line-height: 2;                letter-spacing: 1.2px;                margin: 0;            }            a {                color: #ebf7f4;            }            .body--ready {                background: -webkit-linear-gradient(top, rgb(203, 235, 219) 0%, rgb(55, 148, 192) 120%);                background: -moz-linear-gradient(top, rgb(203, 235, 219) 0%, rgb(55, 148, 192) 120%);                background: -o-linear-gradient(top, rgb(203, 235, 219) 0%, rgb(55, 148, 192) 120%);                background: -ms-linear-gradient(top, rgb(203, 235, 219) 0%, rgb(55, 148, 192) 120%);                background: linear-gradient(top, rgb(203, 235, 219) 0%, rgb(55, 148, 192) 120%);            }            .text {                position: fixed;                bottom: 100px;</style></head></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&amp;lt;–more–&amp;gt;&lt;/p&gt;
+&lt;html&gt;
+    &lt;head&gt;&lt;meta name=&quot;generator&quot; content=&quot;Hexo 3.9.0&quot;&gt;
+        &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/ht
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://www.sgyz.xyz/2019/09/28/hello-world/"/>
+    <id>http://www.sgyz.xyz/2019/09/28/hello-world/</id>
+    <published>2019-09-28T02:32:36.841Z</published>
+    <updated>2019-09-28T02:32:36.842Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
