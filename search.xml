@@ -44,9 +44,42 @@
     
     
     <entry>
-      <title>关于</title>
+      <title>所有分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>一曲肝肠断，天涯何处觅知音~</title>
+      <link href="/friends/index.html"/>
+      <url>/friends/index.html</url>
+      
+        <content type="html"><![CDATA[<p>名称：落尘曦<br>主页：<a href="https://www.sgyz.xyz/">https://www.sgyz.xyz/</a><br>头像：<a href="http://img.vim-cn.com/be/6ac1148efb9587346392c34d985882dc22e7b1.png" target="_blank" rel="noopener">http://img.vim-cn.com/be/6ac1148efb9587346392c34d985882dc22e7b1.png</a><br>标签：C语言、java、网络安全、前端<br>简介：书山有路勤为径，学海无涯苦作舟</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<!DOCTYPE html><html><body><meta http-equiv="Refresh" content="0.1;URL=http://img.vim-cn.com/a8/d717bdfcb91a7c502d1e501d92a914970b5a48.htm"><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"model":{"jsonPath":"/live2dw/assets/koharu.model.json"},"display":{"position":"right","width":150,"height":300},"mobile":{"show":false},"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script></body></html>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/mylist/index.html"/>
+      <url>/mylist/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -60,39 +93,6 @@
       <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>所有分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/list/index.html"/>
-      <url>/list/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/friends/index.html"/>
-      <url>/friends/index.html</url>
-      
-        <content type="html"><![CDATA[<hr><p> layout: links     # 必须<br> title: 我的朋友们   # 可选，这是友链页的标题<br> links:</p><ul><li><p>group: 技术大佬<br>icon: fas fa-user-tie<br>items:</p><ul><li>name: houjun<br>avatar: <a href="https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/hojun.jpg" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/hojun.jpg</a><br>url: <a href="https://www.hojun.cn/" target="_blank" rel="noopener">https://www.hojun.cn/</a><br>backgroundColor: ‘#3E74C9’ # 卡片背景颜色<br>textColor: ‘#fff’  # 卡片文字颜色<br>tags:     # 标签<ul><li>一个很好的博客</li></ul></li><li>name: fangze<br>avatar: <a href="https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/fangzh.jpg" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/fangzh.jpg</a><br>url: <a href="http://fangzh.top/" target="_blank" rel="noopener">http://fangzh.top/</a><br>backgroundColor: ‘#aed54c’ # 卡片背景颜色<br>textColor: ‘#fff’  # 卡片文字颜色<br>tags:     # 标签<ul><li>人工智能</li><li>人生感悟</li></ul></li><li>name: 欧阳博客<br>avatar: <a href="https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/5658.png" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/5658.png</a><br>url: <a href="https://5658.pw/" target="_blank" rel="noopener">https://5658.pw/</a><br>backgroundColor: ‘#c76813’ # 卡片背景颜色<br>textColor: ‘#fff’  # 卡片文字颜色<br>tags:     # 标签<ul><li>三分孤独、七分狂傲</li></ul></li><li>name: Shansan<br>avatar: <a href="http://img.vim-cn.com/36/b59349e0d585406b8cb882032985e2e5a5870b.jpg" target="_blank" rel="noopener">http://img.vim-cn.com/36/b59349e0d585406b8cb882032985e2e5a5870b.jpg</a><br>url: <a href="https://shansan.top/" target="_blank" rel="noopener">https://shansan.top/</a><br>backgroundColor: ‘#535332’ # 卡片背景颜色<br>textColor: ‘#fff’  # 卡片文字颜色<br>tags:     # 标签<ul><li>C++</li></ul></li><li>name: yue_luo’s Blog<br>avatar: <a href="https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/yueluo.png" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/yueluo.png</a><br>url: <a href="https://www.yueluo.xyz/" target="_blank" rel="noopener">https://www.yueluo.xyz/</a><br>backgroundColor: ‘#f034c1’ # 卡片背景颜色<br>textColor: ‘#fff’  # 卡片文字颜色<br>tags:     # 标签<ul><li>android </li></ul></li><li>name: zjohnson<br>avatar: <a href="https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/zjohnson.jpg" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/zjohnson.jpg</a><br>url: <a href="http://www.zjohnson.top/" target="_blank" rel="noopener">http://www.zjohnson.top/</a><br>backgroundColor: ‘#f33165’ # 卡片背景颜色<br>textColor: ‘#fff’  # 卡片文字颜色<br>tags:     # 标签<ul><li>生信、Python </li></ul></li><li>name: 一来二去三逍遥<br>avatar: <a href="https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/moonster.jpg" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/moonster.jpg</a><br>url: <a href="https://www.moonster.top/" target="_blank" rel="noopener">https://www.moonster.top/</a><br>backgroundColor: ‘#73c508’ # 卡片背景颜色<br>textColor: ‘#fff’  # 卡片文字颜色<br>tags:     # 标签<ul><li>java</li><li>c++</li><li>摄影      </li></ul></li><li>name: xaoauu’s blog<br>avatar: <a href="https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/xaoxuu.png" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/xaoxuu.png</a><br>url: <a href="https://xaoxuu.com/" target="_blank" rel="noopener">https://xaoxuu.com/</a><br>backgroundColor: ‘#54584d’ # 卡片背景颜色<br>textColor: ‘#fff’  # 卡片文字颜色<br>tags:     # 标签<ul><li>ios    </li></ul></li></ul></li><li><p>group: 爱情小站<br>icon: fas fa-heart<br>items:</p><ul><li>name: LOVE109❤️纪实小屋<br>avatar: <a href="https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/love109.jpg" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/love109.jpg</a><br>url: <a href="https://www.love109.cn/" target="_blank" rel="noopener">https://www.love109.cn/</a><br>backgroundColor: ‘#FF90A3’ # 卡片背景颜色<br>textColor: ‘#fff’  # 卡片文字颜色<br>tags:     # 标签<ul><li>记录爱情❤记录生活</li></ul></li><li>name: 两个有意思的<br>avatar: <a href="https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/dxq520.png" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/dxq520.png</a><br>url: <a href="https://dxq520.cn/" target="_blank" rel="noopener">https://dxq520.cn/</a><br>backgroundColor: ‘#FF90A3’ # 卡片背景颜色<br>textColor: ‘#fff’  # 卡片文字颜色<br>tags:     # 标签<ul><li>记录爱情❤记录生活</li></ul></li><li>name: 晨哥❤芸霄的小窝<br>avatar: <a href="https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/fengyunxiao.png" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/fengyunxiao.png</a><br>url: <a href="https://www.fengyunxiao.cn/" target="_blank" rel="noopener">https://www.fengyunxiao.cn/</a><br>backgroundColor: ‘#FF90A3’ # 卡片背景颜色<br>textColor: ‘#fff’  # 卡片文字颜色<br>tags:     # 标签<ul><li>晨哥❤芸霄的小窝</li></ul></li></ul></li><li><p>group: 爱情小站<br>icon: fas fa-link<br>items:</p><ul><li>name: 中国博客联盟<br>avatar: <a href="https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/zgboke.png" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/zgboke.png</a><br>url: <a href="https://zgboke.org/" target="_blank" rel="noopener">https://zgboke.org/</a><br>backgroundColor: ‘#21888F’ # 卡片背景颜色<br>textColor: ‘#fff’  # 卡片文字颜色<br>tags:     # 标签<ul><li>中国博客联盟</li></ul></li><li>name: 一站之星<br>avatar: <a href="https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/izstar.png" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/izstar.png</a><br>url: <a href="https://www.izstar.cn/" target="_blank" rel="noopener">https://www.izstar.cn/</a><br>backgroundColor: ‘#21888F’ # 卡片背景颜色<br>textColor: ‘#fff’  # 卡片文字颜色<br>tags:     # 标签<ul><li>❤学生党博客之家 fas fa-envelope</li></ul></li></ul></li><li><p>group: 交流群组<br>icon: fas fa-envelope<br>items:</p><ul><li>name: QQ交流群<br>avatar: <a href="https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/groups.jpg" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-LINKS/groups.jpg</a><br>url: <a href="http://qm.qq.com/cgi-bin/qm/qr?k=UJh5eSQuhFgMsjSQCCHTpTVnqUmKMGgM&amp;authKey=qJ0q6fPdh1zzHif4CmWATeoCgXDPwZVT73VVA6eIMrHtwHxktrP7EdRur60Re1sr&amp;group_code=801511924" target="_blank" rel="noopener">http://qm.qq.com/cgi-bin/qm/qr?k=UJh5eSQuhFgMsjSQCCHTpTVnqUmKMGgM&amp;authKey=qJ0q6fPdh1zzHif4CmWATeoCgXDPwZVT73VVA6eIMrHtwHxktrP7EdRur60Re1sr&amp;group_code=801511924</a><br>backgroundColor: ‘#0E518D’ # 卡片背景颜色<br>textColor: ‘#fff’  # 卡片文字颜色<br>tags:     # 标签<ul><li>hugo&amp;hexo博客群（技术交流）</li></ul></li></ul><hr><p>名称：TRHX’S BLOG<br>主页：<a href="https://www.sgyz.xyz/">https://www.sgyz.xyz/</a><br>头像：<a href="http://img.vim-cn.com/be/6ac1148efb9587346392c34d985882dc22e7b1.png" target="_blank" rel="noopener">http://img.vim-cn.com/be/6ac1148efb9587346392c34d985882dc22e7b1.png</a><br>标签：Python、爬虫、前端<br>简介：书山有路勤为径，学海无涯苦作舟</p></li></ul>]]></content>
       
     </entry>
     
