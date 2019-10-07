@@ -105,6 +105,17 @@
           </a>
         </li>
       
+        <li>
+          <a class="nav home" href="../comments/"
+            
+              rel="nofollow"
+            
+            
+            id="..comments">
+            <i class='fas fa-book fa-fw'></i>&nbsp;留言
+          </a>
+        </li>
+      
     
   </ul>
 </div>
@@ -1191,9 +1202,49 @@ setInterval("createtime()",250);
 </script>
 
 <!-- 鼠标宠物-->
+<meta charset="utf-8">
+<!-- 记得导入jquery -->
+<script src="http://cdn.static.runoob.com/libs/jquery/1.10.2/jquery.min.js">
+<a class="copy_url_a" style="cursor: pointer;">复制链接</a>
+<textarea style="opacity: 0; z-index: -1; position: absolute; left: 0px;" class="copy_url_input">http://www.baidu.co1m</textarea>
+<script type="text/javascript"> 
+	$(function(){
+	    $('.copy_url_a').click(function(){
+	        var textarea_url = $(this).siblings('.copy_url_input').get(0);
+	        console.log(textarea_url);
+	        var currentFocus = document.activeElement;
+	        textarea_url.select();
+	        document.execCommand("copy")
+	        currentFocus.focus();
+	        alert("已复制好，可贴粘。"); 
+	    })
+	})
+</script> 
 
 
+<a class="copy_url_a" style="cursor: pointer;">复制链接</a>
+<input style="opacity: 0; z-index: -1; position: absolute; left: 0px;" class="copy_url_input" value="http://www.baidu.co2m">
 
+<script type="text/javascript">
+	$(function(){
+	    $('.copy_url_a').click(function(){
+	        var inputText = $(this).siblings('.copy_url_input').get(0);
+	        var currentFocus = document.activeElement;
+	        inputText.focus();
+	        inputText.setSelectionRange(0, inputText.value.length);
+	        document.execCommand('copy');
+	        currentFocus.focus();
+	    })
+	})
+</script>
+
+
+  <script src="https://cdn.jsdelivr.net/gh/SGYZ0910/CDN@1.0.4/js/activate-power-mode.js"></script>
+  <script>
+  POWERMODE.colorful = true; // make power mode colorful
+  POWERMODE.shake = false; // turn off shake
+  document.body.addEventListener('input', POWERMODE);
+  </script>
 
 <!--人体时钟背景透明-->
 <script charset="Shift_JIS" src="http://chabudai.sakura.ne.jp/blogparts/honehoneclock/honehone_clock_tr.js"></script>
