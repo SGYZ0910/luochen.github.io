@@ -7,7 +7,70 @@
   <title>comments | SGYZ</title>
   
   
+</script>
+<script>
+  var xhr = new XMLHttpRequest();
+  xhr.open('get', 'https://v1.hitokoto.cn');
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState === 4) {
+      var data = JSON.parse(xhr.responseText);
+      var hitokoto = document.getElementById('hitokoto');
+      hitokoto.innerText = data.hitokoto;
+    }
+  }
+  xhr.send();
+</script>
+<style>
+      body{width: 100%;
+           height:100%;
+           background-color:#444;
+           text-align:center; 
+      }
+        .container {
+            width: 80%;
+            height:100%;
+            margin: 10% auto 0;
+            background-color: #f0f0f0;
+            padding: 5% 5%;
+            border-radius: 30px
+        }
 
+        ul {
+            padding-left: 20px;
+        }
+
+            ul li {
+                line-height: 2.3
+            }
+
+        a {
+            color: #20a53a
+        }
+a:link { text-decoration: none;}
+a:active { text-decoration: none;}
+a:hover { text-decoration:none;}
+a:visited { text-decoration: none;}
+button { /* 按钮美化 */
+	width: 80%; /* 宽度 */
+	height: 20%; /* 高度 */
+	border-width: 0px; /* 边框宽度 */
+	border-radius: 88px; /* 边框半径 */
+	background: #1E90FF; /* 背景颜色 */
+	cursor: pointer; /* 鼠标移入按钮范围时出现手势 */
+	outline: none; /* 不显示轮廓线 */
+	font-family: Microsoft YaHei; /* 设置字体 */
+	color: white; /* 字体颜色 */
+	font-size: 1.2em; /* 字体大小 */
+
+}
+button:hover { /* 鼠标移入按钮范围时改变颜色 */
+	  background: #5599FF;
+}
+      h1{color:red
+      background-color: #C0C0C0; 
+      
+      }
+</style>
   
   <link rel="alternate" href="../atom.xml" title="SGYZ">
   
@@ -313,6 +376,7 @@
   <div class="l_body">
     <div class='body-wrapper'>
       <div class='l_main no_sidebar'>
+	  <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
   
 
   <article id="page" class="post white-box article-type-page" itemscope itemprop="blogPost">
@@ -457,10 +521,27 @@
     </div>
     <h1>
     念两句诗</h1>
-    <p id="poem">
-    叙别梦、扬州一觉。</p>
-    <p id="info">
-    【宋代】吴文英《夜游宫·人去西楼雁杳》</p>
+    <body><button id="btn" ele-range><p id="hitokoto">:D 获取中...</p>
+<!-- 以下写法，选取一种即可 -->
+
+<!-- 现代写法，推荐 -->
+<!-- 兼容低版本浏览器 (包括 IE)，可移除 -->
+<script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/whatwg-fetch@2.0.3/fetch.min.js"></script>
+<!--End-->
+<script>
+  fetch('https://v1.hitokoto.cn')
+    .then(function (res){
+      return res.json();
+    })
+    .then(function (data) {
+      var hitokoto = document.getElementById('hitokoto');
+      hitokoto.innerText = data.hitokoto; 
+    })
+    .catch(function (err) {
+      console.error(err);
+    })
+</script></button></body>
   </div>
 </div>
 
