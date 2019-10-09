@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SGYZ</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.sgyz.xyz/"/>
+  <updated>2019-10-09T16:28:01.564Z</updated>
+  <id>http://www.sgyz.xyz/</id>
+  
+  <author>
+    <name>上官易泽</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于luochen</title>
+    <link href="http://www.sgyz.xyz/2019/10/09/%E5%85%B3%E4%BA%8Eluochen/"/>
+    <id>http://www.sgyz.xyz/2019/10/09/关于luochen/</id>
+    <published>2019-10-09T15:00:35.000Z</published>
+    <updated>2019-10-09T16:28:01.564Z</updated>
+    
+    <content type="html"><![CDATA[<p>洛洛清心何处是，红尘一诺水中流~     —小生洛尘曦</p><a id="more"></a><p><img src="/image/b.jpg" alt></p><h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1><p>小生是一名普通的本科在校学生，<br>由于爱好入门，性佛系，爱书法，尤善品茶论道。<br>大学之后更是潜心钻研计算机知识。</p><blockquote><p>一路走来实数不易</p></blockquote><p>感恩在此过程中一路陪伴的人。</p>]]></content>
+    
+    <summary type="html">
+    
+      关于小生以及博客的简述
+    
+    </summary>
+    
+    
+      <category term="小生" scheme="http://www.sgyz.xyz/categories/%E5%B0%8F%E7%94%9F/"/>
+    
+      <category term="LuoChen" scheme="http://www.sgyz.xyz/categories/%E5%B0%8F%E7%94%9F/LuoChen/"/>
+    
+    
+      <category term="LuoChen" scheme="http://www.sgyz.xyz/tags/LuoChen/"/>
+    
+  </entry>
+  
+</feed>
