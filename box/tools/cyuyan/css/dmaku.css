@@ -1,0 +1,15 @@
+﻿/****************************************************************
+ *																*		
+ * 						      代码库							*
+ *                        www.dmaku.com							*
+ *       		  努力创建完善、持续更新插件以及模板			*
+ * 																*
+****************************************************************/
+body{	font-family: "Microsoft YaHei","Segoe UI", "Lucida Grande", Helvetica, Arial,sans-serif;}
+* { margin:0; padding:0; }
+a { color:#999; text-decoration:none; }
+li { list-style:none; }
+body { background-color: #222222; }
+.xs_ul { width:1072px; margin:100px auto 0; font-size:0; line-height:0; }
+.xs_ul li { display:inline-block; font-size:20px; line-height:20px; background:#fff; margin:20px; }
+.xs_ul li a { display:block; width:76px; text-align:center; padding:15px 30px; border:1px solid #000; }

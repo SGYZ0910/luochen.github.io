@@ -56,6 +56,17 @@
     
     
     <entry>
+      <title>所有标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>一曲肝肠断，天涯何处觅知音~</title>
       <link href="/friends/index.html"/>
       <url>/friends/index.html</url>
@@ -67,9 +78,9 @@
     
     
     <entry>
-      <title>所有标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title></title>
+      <link href="/mylist/index.html"/>
+      <url>/mylist/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
