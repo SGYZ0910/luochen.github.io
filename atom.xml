@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.sgyz.xyz/"/>
-  <updated>2019-10-19T03:58:33.885Z</updated>
+  <updated>2019-10-20T03:14:10.729Z</updated>
   <id>http://www.sgyz.xyz/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>关于一些软件的安装问题</title>
+    <link href="http://www.sgyz.xyz/2019/10/19/%E5%85%B3%E4%BA%8E%E4%B8%80%E4%BA%9B%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98/"/>
+    <id>http://www.sgyz.xyz/2019/10/19/关于一些软件的安装问题/</id>
+    <published>2019-10-19T14:57:20.000Z</published>
+    <updated>2019-10-20T03:14:10.729Z</updated>
+    
+    <content type="html"><![CDATA[<p><font color="#66FFFF" size="4" face="黑体">一些计算机相关软件的安装教程（小生的一些拙见，属于小白教程，大牛略过）</font></p><a id="more"></a><hr><p>本文主要讲解一些在学习计算机过程中<br>一些软件的安装教程，本文中附有的一些软件资源均来自网络。，</p><blockquote><p><strong>资源仅做交流使用，切勿商用。支持正版，请到官网下载。</strong></p></blockquote><hr><h1 id="关于计算机等级考试相关软件的安装"><a href="#关于计算机等级考试相关软件的安装" class="headerlink" title="关于计算机等级考试相关软件的安装"></a>关于计算机等级考试相关软件的安装</h1><ul><li>所需软件的安装（如vs2010 office2010等）<br>可以到<a href="http://www.eduexam.cn/Software/" target="_blank" rel="noopener">未来星教育官网</a>下载相关需用软件<br><img src="/image/c.jpg" alt><br>office2010 <a href="pan.baidu.com/s/1bqJ0syz">32位下载提取码：dqyq</a><br>office2010 <a href="pan.baidu.com/s/1YFTapBkP3FBdYyTC80uRSg">64位下载提取码：9uzm</a><br><img src="/image/d.jpg" alt><br><font color="#FF33CC" size="5" face="黑体"><strong>如何看系统位数</strong></font></li><li>鼠标右击我的电脑之后，点击属性。</li><li>按快捷键win+R键，然后在run窗口中输入DxDiag命令，点击两下确定</li><li>至于有的人说32和64位的区别，这里引用一篇 <strong>联想商务服务公众号</strong> 的的一篇文章有兴趣<a href="https://mp.weixin.qq.com/s?__biz=MzAwNjg3NzA0MA==&mid=2656475714&idx=1&sn=c3e711a75cf846cc6526c9a2e0115cce&chksm=80a4805db7d3094b69178c4b70d0b0013a3d563cf7fe2d8238c4d6c3b555b83fd3bccda15a91&mpshare=1&scene=23&srcid=0827kGMzhxQ1kgY5mxZCCwjp&sharer_sharetime=1571538087199&sharer_shareid=15931bc7be6fd110de28207a8a444e2e#rd" target="_blank" rel="noopener">点击查看</a><br><img src="/image/e.jpg" alt><br><img src="/image/f.jpg" alt><br>知道位数之后即可下载对应位数的软件。<br>至于office软件的破解，以上分享的软件压缩包中自带有工具。<br>下面我再分享一个更为简洁的软件<br><a href="https://www.lanzous.com/i6vbs7i" target="_blank" rel="noopener">Office 2010 Toolkit一键激活工具</a><br>下载后解压，解压后鼠标右击以管理员身份运行软件。<br><img src="/image/g.jpg" alt><br><img src="/image/h.jpg" alt><br>破解之后打开word，查看破解是否完成<br><img src="/image/i.jpg" alt><h2 id="题库软件的安装"><a href="#题库软件的安装" class="headerlink" title="题库软件的安装"></a>题库软件的安装</h2>所用题库<a href="https://pan.baidu.com/share/init?surl=jc3q4fx1Yqn7HyCsLRS6cQ" target="_blank" rel="noopener">下载提取码：sgyz</a><br>下载之后解压到本地，然后右击创建桌面图标文件，以管理员身份运行（如果部分存在杀毒软件报毒，继续运行即可）<br><img src="/image/j.jpg" alt><br>然后按照界面提示操作<br><img src="/image/k.jpg" alt><br><img src="/image/l.jpg" alt><br>安装成功之后，桌面有图标生成，双击即可运行，在选择界面选择所需题库即可。<br><img src="/image/m.jpg" alt><br><img src="/image/n.jpg" alt><h1 id="关于一些其他软件的安装（如AE-PR-AU-PS等）"><a href="#关于一些其他软件的安装（如AE-PR-AU-PS等）" class="headerlink" title="关于一些其他软件的安装（如AE | PR | AU | PS等）"></a>关于一些其他软件的安装（如AE | PR | AU | PS等）</h1></li><li>就是软件资源网上无论是百度还是其他地方都可以找到很多，但是资源杂乱，很多人不能区分真假。<br>因此，在这里推荐一个公众号，个人感觉上面软件及教程总结不错→<strong>软件管家</strong>。</li><li>具体软件目录这里也分享一下<a href="http://url.cn/5hz1HM2" target="_blank" rel="noopener">点击进入</a><br><img src="/image/o.jpg" alt><br><font color="#FF6699" size="4" face="黑体">里面有软件的各种版本及图文教程，更有破解安装的方法。可以根据自己情况下载。</font></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;font color=&quot;#66FFFF&quot; size=&quot;4&quot; face=&quot;黑体&quot;&gt;一些计算机相关软件的安装教程（小生的一些拙见，属于小白教程，大牛略过）&lt;/font&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="软件" scheme="http://www.sgyz.xyz/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+      <category term="其他" scheme="http://www.sgyz.xyz/categories/%E8%BD%AF%E4%BB%B6/%E5%85%B6%E4%BB%96/"/>
+    
+    
+      <category term="软件" scheme="http://www.sgyz.xyz/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+      <category term="教程" scheme="http://www.sgyz.xyz/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>关于luochen</title>
     <link href="http://www.sgyz.xyz/2019/10/09/%E5%85%B3%E4%BA%8Eluochen/"/>
     <id>http://www.sgyz.xyz/2019/10/09/关于luochen/</id>
     <published>2019-10-09T15:00:35.000Z</published>
-    <updated>2019-10-19T03:58:33.885Z</updated>
+    <updated>2019-10-19T14:53:39.946Z</updated>
     
     <content type="html"><![CDATA[<p>洛洛清心何处是，红尘一诺水中流~        —小生洛尘曦</p><a id="more"></a><p><img src="/image/b.jpg" alt></p><h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1><p>小生是一名普通的本科在校学生，<br>由于爱好入门，性佛系，爱书法，尤善品茶论道。<br>不想结果如何，但愿可以随心所欲、率性而为<br><strong>心似尘烟、心如大海，随四处漂泊。却能纵情山水、包揽天下…<br>我们的征程是星辰大海，纵使路上风雪漫漫，但心若不移，<br>风又奈何；你若不弃，岁月无恙。</strong></p><ul><li>了解更多可以到<a href="/about">个人简介</a><blockquote><p>一路走来实数不易<br>感恩在此过程中一路陪伴的人。</p></blockquote><h1 id="感谢一路陪伴，小生受宠若惊"><a href="#感谢一路陪伴，小生受宠若惊" class="headerlink" title="感谢一路陪伴，小生受宠若惊~"></a>感谢一路陪伴，小生受宠若惊~</h1></li><li><font color="#FF00FF" size="4" face="黑体">年年岁岁花相似，岁岁年年人不同。</font><br>大学之后其中非常感谢一个好友在学习路上的一路陪伴，<br>一直帮助在下。我印象很深的是当时我们一起考等级考试。<br>结果已经不重要了，主要是这个学习的过程。令人难忘。<br>大学我的专业是计算机科学与技术，在此之前我对计算机也<br>比较爱好，但毕竟不是正统，都是微末小道。直到在大学学习<br>之后才算真正的休习正统心法吧。</li><li>目前正在学习Java中，未来目标优秀前端或网络工程师<h1 id="小生现在眼下目标"><a href="#小生现在眼下目标" class="headerlink" title="小生现在眼下目标"></a>小生现在眼下目标</h1></li></ul><p>1.锻炼身体，毕竟身体是革命本钱。<br>2.学习计算机，学无先后，达者为师。须当知学无止境。<br>3.修心养性，用心感激命运，用爱感受生活，往事可忆、未来可期。</p>]]></content>
     
