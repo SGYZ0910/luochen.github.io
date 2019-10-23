@@ -4,10 +4,8 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   
-  <title>关于luochen | SGYZ</title>
+  <title>关于JAVA环境变量设置的一些问题 | SGYZ</title>
   
-  
-  <meta name="description" content="关于小生以及博客的简述">
   
 
   
@@ -336,7 +334,7 @@
     data-mode="circulation"
     data-server="netease"
     data-type="song"
-    data-id="112678"
+    data-id="414118616"
     data-volume="0.7">
   </div>
   <script src="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.js"></script>
@@ -345,7 +343,7 @@
 
     
     
-      <a title='关于luochen' href=''><img class='thumbnail' src='https://img.vim-cn.com/f7/0660e18d9fc3643af1e23e197ae6b28ce834ef.jpg'></a>
+      <a title='关于JAVA环境变量设置的一些问题' href=''><img class='thumbnail' src='http://img.mp.sohu.com/upload/20170729/14f0d4655dab48468bc816790ed509a0_th.png'></a>
     
     <div class="meta" id="header-meta">
       
@@ -353,7 +351,7 @@
   
     <h1 class="title">
       <a href="">
-        关于luochen
+        关于JAVA环境变量设置的一些问题
       </a>
     </h1>
   
@@ -428,7 +426,7 @@
             <div class="new-meta-item date">
   <a class='notlink'>
     <i class="fas fa-calendar-alt" aria-hidden="true"></i>
-    <p>2019-10-09</p>
+    <p>2019-10-23</p>
   </a>
 </div>
 
@@ -440,7 +438,7 @@
   <div class='new-meta-item category'>
     <a href='' rel="nofollow">
       <i class="fas fa-folder-open" aria-hidden="true"></i>
-      <p>小生&nbsp;/&nbsp;LuoChen</p>
+      <p>编程&nbsp;/&nbsp;Java</p>
     </a>
   </div>
 
@@ -481,19 +479,31 @@
    
     <section class="article typo">
       <div class="article-entry" itemprop="articleBody">
-        <p>洛洛清心何处是，红尘一诺水中流~        —小生洛尘曦</p>
+        <p><font color="#99CCFF" size="4" face="黑体">本文简介Java在配置环境变量时的一些情况</font></p>
 <a id="more"></a>
-<p><img src="/image/b.jpg" alt></p>
-<h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1><p>小生是一名普通的本科在校学生，<br>由于爱好入门，性佛系，爱书法，尤善品茶论道。<br>不想结果如何，但愿可以随心所欲、率性而为<br><strong>心似尘烟、心如大海，随四处漂泊。却能纵情山水、包揽天下…<br>我们的征程是星辰大海，纵使路上风雪漫漫，但心若不移，<br>风又奈何；你若不弃，岁月无恙。</strong></p>
-<ul>
-<li>了解更多可以到<a href="/about">个人简介</a><blockquote>
-<p>一路走来实数不易<br>感恩在此过程中一路陪伴的人。</p>
+<hr>
+<p>前言：虽说有集成开发环境，Java的环境变量也很重要。我就结合我遇到的情况,说明一下java环境变量的配置。</p>
+<h2 id="并分享相关工具"><a href="#并分享相关工具" class="headerlink" title="(并分享相关工具)"></a>(并分享相关工具)</h2><h1 id="安装jdk"><a href="#安装jdk" class="headerlink" title="安装jdk"></a>安装jdk</h1><ul>
+<li>首先下载java开发环境工具包jdk，<a href="https://pan.baidu.com/s/1PjYX4ZRN9hrmb2EtFN9rqA" target="_blank" rel="noopener">下载地址</a>下载完成后解压到本地。</li>
+<li>然后按照自己的系统位数安装jdk。注意安装目录安装过程中会出现两次安装目录。第一次是jdk路径，第二次是jre路径（建议安装在不同文件夹下）。</li>
+<li><em>jdk包含javac（elipse等集成开发环境直接帮你编译无需手动编译） java Javap等一些dos命令集。jre则包含一些相关包。*</em><br><img src="/image/p.jpg" alt><br><img src="/image/q.jpg" alt></li>
+<li>安装完成后开始配置相关环境，右击我的电脑→属性→高级系统设置→环境变量<br><img src="/image/r.jpg" alt><br><img src="/image/s.jpg" alt><blockquote>
+<p>在 “系统变量” 中设置 3 项属性，JAVA_HOME、PATH、CLASSPATH(大小写无所谓),若已存在则点击”编辑”，不存在则点击”新建”。<br><strong>注意：如果使用 1.5 以上版本的 JDK，不用设置 CLASSPATH 环境变量，也可以正常编译和运行 Java 程序。</strong></p>
 </blockquote>
-<h1 id="感谢一路陪伴，小生受宠若惊"><a href="#感谢一路陪伴，小生受宠若惊" class="headerlink" title="感谢一路陪伴，小生受宠若惊~"></a>感谢一路陪伴，小生受宠若惊~</h1></li>
-<li><font color="#FF00FF" size="4" face="黑体">年年岁岁花相似，岁岁年年人不同。</font><br>大学之后其中非常感谢一个好友在学习路上的一路陪伴，<br>一直帮助在下。我印象很深的是当时我们一起考等级考试。<br>结果已经不重要了，主要是这个学习的过程。令人难忘。<br>大学我的专业是计算机科学与技术，在此之前我对计算机也<br>比较爱好，但毕竟不是正统，都是微末小道。直到在大学学习<br>之后才算真正的休习正统心法吧。</li>
-<li>目前正在学习Java中，未来目标优秀前端或网络工程师<h1 id="小生现在眼下目标"><a href="#小生现在眼下目标" class="headerlink" title="小生现在眼下目标"></a>小生现在眼下目标</h1></li>
+<figure class="highlight taggerscript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">变量设置参数如下：</span><br><span class="line">变量名：JAVA_HOME</span><br><span class="line">变量值：C:<span class="symbol">\P</span>rogram Files (x86)<span class="symbol">\J</span>ava<span class="symbol">\j</span>dk1.8.0_91        // 要根据自己的实际路径配置</span><br><span class="line">变量名：CLASSPATH</span><br><span class="line">变量值：.;<span class="variable">%JAVA_HOME%</span><span class="symbol">\l</span>ib<span class="symbol">\d</span>t.jar;<span class="variable">%JAVA_HOME%</span><span class="symbol">\l</span>ib<span class="symbol">\t</span>ools.jar;         //记得前面有个"."</span><br><span class="line">变量名：Path</span><br><span class="line">变量值：<span class="variable">%JAVA_HOME%</span><span class="symbol">\b</span>in;<span class="variable">%JAVA_HOME%</span><span class="symbol">\j</span>re<span class="symbol">\b</span>in;</span><br></pre></td></tr></table></figure>
+
+</li>
 </ul>
-<p>1.锻炼身体，毕竟身体是革命本钱。<br>2.学习计算机，学无先后，达者为师。须当知学无止境。<br>3.修心养性，用心感激命运，用爱感受生活，往事可忆、未来可期。</p>
+<p><img src="/image/t.jpg" alt></p>
+<ul>
+<li>然后打开cmd命令窗口；打开方法：windoes键+R键，在弹出窗口中输入cmd，点击确定</li>
+<li>在cmd窗口中输入java -version、javvac等，若出现如下窗口则证明设置成功<br><img src="/image/u.jpg" alt><h1 id="配置失败的一些情况"><a href="#配置失败的一些情况" class="headerlink" title="配置失败的一些情况"></a>配置失败的一些情况</h1></li>
+<li>如果elipse不能使用或者cmd窗口javac命令不能使用，就是环境配置失败大多数是path路径配置失败。</li>
+</ul>
+<ol>
+<li>建议卸载jdk重新安装，按照以上步骤重新配置环境变量。</li>
+<li>使用java环境配置工具工具试试。<br><a href="https://www.lanzous.com/i6x75vc" target="_blank" rel="noopener">一键配置Java环境工具下载地址</a></li>
+</ol>
 
       </div>
       
@@ -505,10 +515,10 @@
     <div class='new-meta-box'>
       
         
-          <div class="new-meta-item date" itemprop="dateUpdated" datetime="2019-10-19T22:53:39+08:00">
+          <div class="new-meta-item date" itemprop="dateUpdated" datetime="2019-10-23T15:54:06+08:00">
   <a class='notlink'>
     <i class="fas fa-clock" aria-hidden="true"></i>
-    <p>更新于 2019年10月19日</p>
+    <p>更新于 2019年10月23日</p>
   </a>
 </div>
 
@@ -517,7 +527,7 @@
         
           
   
-  <div class="new-meta-item meta-tags"><a class="tag" href="../../../../tags/LuoChen/" rel="nofollow"><i class="fas fa-tag" aria-hidden="true"></i><p>LuoChen</p></a></div>
+  <div class="new-meta-item meta-tags"><a class="tag" href="../../../../tags/编程/" rel="nofollow"><i class="fas fa-tag" aria-hidden="true"></i><p>编程</p></a></div> <div class="new-meta-item meta-tags"><a class="tag" href="../../../../tags/Java/" rel="nofollow"><i class="fas fa-tag" aria-hidden="true"></i><p>Java</p></a></div>
 
 
         
@@ -530,7 +540,7 @@
       
         <a class="-mob-share-qq" title="QQ好友" rel="external nofollow noopener noreferrer"
           
-          href="http://connect.qq.com/widget/shareqq/index.html?url=http://www.sgyz.xyz/2019/10/09/关于luochen/&title=关于luochen | SGYZ&summary=洛洛清心何处是，红尘一诺水中流~        —小生洛尘曦"
+          href="http://connect.qq.com/widget/shareqq/index.html?url=http://www.sgyz.xyz/2019/10/23/关于JAVA环境变量设置的一些问题/&title=关于JAVA环境变量设置的一些问题 | SGYZ&summary=本文简介Java在配置环境变量时的一些情况"
           
           >
           
@@ -542,7 +552,7 @@
       
         <a class="-mob-share-qzone" title="QQ空间" rel="external nofollow noopener noreferrer"
           
-          href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=http://www.sgyz.xyz/2019/10/09/关于luochen/&title=关于luochen | SGYZ&summary=洛洛清心何处是，红尘一诺水中流~        —小生洛尘曦"
+          href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=http://www.sgyz.xyz/2019/10/23/关于JAVA环境变量设置的一些问题/&title=关于JAVA环境变量设置的一些问题 | SGYZ&summary=本文简介Java在配置环境变量时的一些情况"
           
           >
           
@@ -554,7 +564,7 @@
       
         <a class="-mob-share-weibo" title="微博" rel="external nofollow noopener noreferrer"
           
-          href="http://service.weibo.com/share/share.php?url=http://www.sgyz.xyz/2019/10/09/关于luochen/&title=关于luochen | SGYZ&summary=洛洛清心何处是，红尘一诺水中流~        —小生洛尘曦"
+          href="http://service.weibo.com/share/share.php?url=http://www.sgyz.xyz/2019/10/23/关于JAVA环境变量设置的一些问题/&title=关于JAVA环境变量设置的一些问题 | SGYZ&summary=本文简介Java在配置环境变量时的一些情况"
           
           >
           
@@ -578,14 +588,15 @@
       
           <div class="prev-next">
               
-                  <section class="prev">
-                      <span class="art-item-left">
-                          <h6><i class="fas fa-chevron-left" aria-hidden="true"></i>&nbsp;上一页</h6>
+              
+                  <section class="next">
+                      <span class="art-item-right" aria-hidden="true">
+                          <h6>下一页&nbsp;<i class="fas fa-chevron-right" aria-hidden="true"></i></h6>
                           <h4>
                               <a href="../../19/关于一些软件的安装问题/" rel="prev" title="关于一些软件的安装问题">
-                                
-                                    关于一些软件的安装问题
-                                
+                                  
+                                      关于一些软件的安装问题
+                                  
                               </a>
                           </h4>
                           
@@ -597,40 +608,11 @@
                       </span>
                   </section>
               
-              
           </div>
       
     </section>
   </article>
 
-
-  
-    
-  
-    
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-    
-  
-    
-  
 
 
   <!-- 显示推荐文章和评论 -->
@@ -664,7 +646,7 @@
 
   <script>
     window.subData = {
-      title: '关于luochen',
+      title: '关于JAVA环境变量设置的一些问题',
       tools: true
     }
   </script>
@@ -851,7 +833,7 @@
 </header>
 
     <div class='content pure'>
-      <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#关于我"><span class="toc-text">关于我</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#感谢一路陪伴，小生受宠若惊"><span class="toc-text">感谢一路陪伴，小生受宠若惊~</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#小生现在眼下目标"><span class="toc-text">小生现在眼下目标</span></a></li></ol>
+      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#并分享相关工具"><span class="toc-text">(并分享相关工具)</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#安装jdk"><span class="toc-text">安装jdk</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#配置失败的一些情况"><span class="toc-text">配置失败的一些情况</span></a>
     </div>
   </section>
 
